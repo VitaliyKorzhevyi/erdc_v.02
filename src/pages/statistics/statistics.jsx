@@ -1,7 +1,19 @@
-import React from 'react'
+import { NavLink } from "react-router-dom";
 
-export const Statistics = () => {
+const Statistics = () => {
   return (
-    <div>Statistics</div>
-  )
-}
+    <div>
+      <ul>
+        <li>
+          <NavLink to="summary-information">Моніторинг прийомів</NavLink>
+        </li>
+        <li>
+          <NavLink to="search">Детальний пошук</NavLink>
+        </li>
+      </ul>
+ 
+    </div>
+  );
+};
+
+export default Statistics;

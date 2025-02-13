@@ -1,7 +1,9 @@
 import React from 'react'
 
-export const MedicationReports = () => {
+const MedicationReports = () => {
   return (
     <div>MedicationReports</div>
   )
 }
+
+export default MedicationReports

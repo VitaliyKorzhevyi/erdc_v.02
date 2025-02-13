@@ -1,7 +1,9 @@
 import React from 'react'
 
-export const PharmaceuticalAccounting = () => {
+const PharmaceuticalAccounting = () => {
   return (
     <div>PharmaceuticalAccounting</div>
   )
 }
+
+export default PharmaceuticalAccounting

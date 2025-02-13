@@ -1,5 +1,5 @@
 import React from 'react'
-import { AppRoutes } from './app-routes'
+import { AppRoutes } from './AppRoutes'
 
 import './styles.css';
 

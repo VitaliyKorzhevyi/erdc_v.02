@@ -1,7 +1,9 @@
 import React from 'react'
 
-export const Marks = () => {
+const Marks = () => {
   return (
     <div>Marks</div>
   )
 }
+
+export default Marks

@@ -1,7 +1,9 @@
 import React from 'react'
 
-export const SummaryInformation = () => {
+const SummaryInformation = () => {
   return (
     <div>SummaryInformation</div>
   )
 }
+
+export default SummaryInformation

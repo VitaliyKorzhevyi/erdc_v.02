@@ -1,7 +1,9 @@
 import React from 'react'
 
-export const ReportManagement = () => {
+const ReportManagement = () => {
   return (
     <div>ReportManagement</div>
   )
 }
+
+export default ReportManagement

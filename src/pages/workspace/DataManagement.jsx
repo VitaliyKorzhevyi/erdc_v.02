@@ -1,7 +1,9 @@
 import React from 'react'
 
-export const DataManagement = () => {
+const DataManagement = () => {
   return (
     <div>DataManagement</div>
   )
 }
+
+export default DataManagement

@@ -1,7 +1,12 @@
-import React from 'react'
+import React from 'react';
+import Header from '../widgets/Header';
 
-export const Home = () => {
+const Home = () => {
   return (
-    <div>Home</div>
-  )
-}
+    <div>
+      <Header />
+    </div>
+  );
+};
+
+export default Home;
